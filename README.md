@@ -1,2 +1,2 @@
-# entrevista-t-cnica
+# entrevista-técnica
 Entrevista Técnica - Estágio
